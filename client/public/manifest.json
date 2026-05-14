@@ -1,0 +1,25 @@
+{
+  "short_name": "FINMA",
+  "name": "FINMA INVEST",
+  "description": "Analytics-driven investment and portfolio management system.",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#10B981",
+  "background_color": "#020617"
+}
