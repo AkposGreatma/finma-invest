@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API = axios.create({
   baseURL:
-   "https://finma-invest.onrender.com/api",
+   "https://finma-invest-1.onrender.com/api",
 });
 
 export const registerUser = (data) =>
