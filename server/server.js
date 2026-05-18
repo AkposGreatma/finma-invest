@@ -7,7 +7,7 @@ const analyticsRoutes = require("./routes/analyticsRoutes");
 const portfolioRoutes = require("./routes/portfolioRoutes");
 const walletRoutes = require("./routes/walletRoutes");
 const newsRoutes = require("./routes/newsRoutes");
-
+const db = require("./config/db");
 const app = express();
 
 app.use(cors());
